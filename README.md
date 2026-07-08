@@ -1,4 +1,4 @@
-# 🛫 Akasa Air – Data Engineering Task (Customer & Orders ETL Pipeline)
+# 🛫 Data Engineering Pipeline (Customer & Orders ETL Pipeline)
 
 This project implements a **complete data engineering workflow** To process and analyze customer and order data from multiple sources (CSV and XML) using both database table and data-frame (in-memory) approaches. It performs **data ingestion, cleaning, preprocessing, storage, KPI computation, and visualization** using both a **Table-Based (MySQL)** and **In-Memory (Pandas)** approach.
 
